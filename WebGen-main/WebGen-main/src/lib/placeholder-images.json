@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "login-hero",
+      "description": "A welcoming image for the login screen, showing a modern and clean medical environment with a doctor using a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkb2N0b3IlMjB0ZWNobm9sb2d5fGVufDB8fHx8MTc1ODY0MDg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor technology"
+    },
+    {
+      "id": "patient-dashboard-hero",
+      "description": "An uplifting image for the patient dashboard, showing a person feeling healthy and positive.",
+      "imageUrl": "https://images.unsplash.com/photo-1518611012118-696072aa579a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoZWFsdGh5JTIwbGlmZXN0eWxlfGVufDB8fHx8MTc1ODU4MjIyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "healthy lifestyle"
+    },
+    {
+      "id": "doctor-dashboard-hero",
+      "description": "A professional image for the doctor dashboard, showing a doctor at their desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1524758870432-af57e54afa26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkb2N0b3IlMjBvZmZpY2V8ZW58MHx8fHwxNzU4NTk1MDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor office"
+    },
+    {
+      "id": "ai-chat-background",
+      "description": "A subtle, abstract background for the AI chat interface.",
+      "imageUrl": "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzU4NTg1NzU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract technology"
+    }
+  ]
+}
